@@ -7,7 +7,7 @@ Files are stored in CSV format with the follow column order:
 
 `location-name,location-address-street,location-address-locality,location-address-region,location-address-postal-code,location-contact-phone-main,location-contact-url-main,`
 
-[CSV template for this column order](../data/raw-source-data/2020-03-24-collection-format-template.csv) - obviously use this as a starting point, rename your entries before push and don't overwrite the template.
+[CSV template for this column order](../raw-source-data/2020-03-24-collection-format-template.csv) - obviously use this as a starting point, rename your entries before push and don't overwrite the template.
 
 ## Formatting of Fields
 
